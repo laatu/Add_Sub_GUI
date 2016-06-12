@@ -3,7 +3,7 @@
 intial gui
 This is just a try to build the gui standalone app...
 
-![alt tag](http://anujg.com/file/extra_images/img.png "Description goes here")
+![alt tag](http://laatuji.byethost13.com/file/extra_images/img.png "Description goes here")
 
 
 # The work is here
